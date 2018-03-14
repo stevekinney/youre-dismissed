@@ -1,13 +1,13 @@
 .Card {
+  align-items: center;
   background: #FFF;
   border-radius: 3px;
   box-shadow: 0 3px 4px rgba(0,0,0,0.3);
-  margin: 20px 0;
-  height: 120px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
   cursor: pointer;
+  display: flex;
+  height: 120px;
+  justify-content: space-around;
+  margin: 20px 0;
   transition: box-shadow 0.2s;
 }
 

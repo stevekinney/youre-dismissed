@@ -6,9 +6,10 @@ import './Cards.css';
 export default class Cards extends Component {
   state = {
     cards: [
-      { id: 1, label: 'Pizza' },
-      { id: 2, label: 'Apples' },
-      { id: 3, label: 'Wowowow' },
+      { id: 1, label: 'Vegan Spam' },
+      { id: 2, label: 'Grass-fed sardines' },
+      { id: 3, label: 'Wild-caught beef' },
+      { id: 4, label: 'Fat-free mayo' },
     ],
   };
 

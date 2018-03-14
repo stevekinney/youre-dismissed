@@ -1,3 +1,14 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 body {
   background-color: #8AC6D0;
+}
+
+body, input {
+  font: menu;
 }
